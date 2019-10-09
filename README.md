@@ -1,10 +1,12 @@
 # Chinese restaurant website with menus list and recipes list with price 
 # Technologies:
-    - HTML5, CSS3, Bootetrap 3, Java Script, JQuery, Json and Ajax 
+    - HTML5, CSS3, Bootstrap 3, Java Script, JQuery, Json and Ajax 
 - Responsive restaurant website with menus list and recipes list with price
 
 - If you see white screen on browser or loading icon on web page then goto your browser settings and enable javascript or try loading with different browsers.
 Note: For me it works on all browsers perfectly :) 
+
+Demo URL: https://naseemshekh20.github.io/restaurant-website-with-menus-list/.
 
 # Settings for Google Chrome
 1. On the web browser menu click on the "Customize and control Google Chrome" and select "Settings". 
